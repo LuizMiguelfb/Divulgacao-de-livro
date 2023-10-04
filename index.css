@@ -1,0 +1,46 @@
+body {
+  background-color: rgb(80,80,80, 0.2);
+}
+
+div {
+  font-family: Tahoma;
+  border-bottom: 2px solid gray;
+  border-right: 3px solid gray;
+  border-left: 3px solid gray;
+  text-align: center;
+  margin: -8px 280px;
+  padding: 26px;
+}
+
+span {
+  font-weight: bold;
+}
+
+p { 
+  font-size: 22px;
+  margin-bottom: 50px;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+  color: white;
+  background-color: rgba(1, 196, 49, 0.781);
+  padding: 10px 30px;
+  border-radius: 20px;
+}
+
+h1 {
+  font-size: 40px;
+  margin-bottom: 50px;
+}
+
+h3, h2 {
+  font-size: 30px;
+  margin-bottom: 50px;
+}
+
+img {
+  margin-bottom: 20px;
+  width: 280px;
+}
